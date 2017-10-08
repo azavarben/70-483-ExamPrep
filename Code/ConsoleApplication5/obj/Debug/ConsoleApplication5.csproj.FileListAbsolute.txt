@@ -1,0 +1,7 @@
+\\az.local\serverfolders\users\btiberi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+\\az.local\serverfolders\users\btiberi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+\\az.local\serverfolders\users\btiberi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+\\az.local\serverfolders\users\btiberi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+\\az.local\serverfolders\users\btiberi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+\\az.local\serverfolders\users\btiberi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ExamPrep.exe.config

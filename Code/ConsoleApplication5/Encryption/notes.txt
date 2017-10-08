@@ -1,0 +1,33 @@
+﻿Expensive from a processor point of view
+Encryption basically deals with byte arrays
+	Coverted to bytes so we can represent things as numbers, 16 bit?
+
+Different Levels
+
+1. File Encryption
+	Based on user creds
+	Uses windows data protection behind the scenes
+2. Windows Data Protection
+	Based on user creds
+	Encrypts things in memory
+
+Hashing
+
+One way encryption
+Two different strings for instance could potentially have the same hash value
+Not unique, will just produce the same result each time with the same input
+The bigger the hash key, the less likely hoood there will be collisions.
+MD5 returns 16 character hash, basically a guid
+so you want to hash passwords in a db and store the hash, but not use a an algorithm like MD5 because the likelyhood of collisions is high
+
+
+Symetric Encryption
+
+	Uses one key for both encryption and decryption
+	Is faster
+
+Asymetric Encryption (Public Key Encryption)
+
+	Uses two keys
+	AES is recommended, Rijndael is basically the same algorithm as AES but AES has a constraint put on that doesnt allow you to use an insecure sized key
+

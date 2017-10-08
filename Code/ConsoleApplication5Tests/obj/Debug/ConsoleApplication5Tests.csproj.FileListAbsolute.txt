@@ -1,0 +1,8 @@
+\\az.local\serverfolders\users\btiberi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5Tests\bin\Debug\ConsoleApplication5Tests.dll
+\\az.local\serverfolders\users\btiberi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5Tests\bin\Debug\ConsoleApplication5Tests.pdb
+\\az.local\serverfolders\users\btiberi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\az.local\serverfolders\users\btiberi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5Tests\obj\Debug\ConsoleApplication5Tests.csprojResolveAssemblyReference.cache
+\\az.local\serverfolders\users\btiberi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5Tests\obj\Debug\ConsoleApplication5Tests.dll
+\\az.local\serverfolders\users\btiberi\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5Tests\obj\Debug\ConsoleApplication5Tests.pdb
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5Tests\bin\Debug\ExamPrep.exe
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5Tests\bin\Debug\ExamPrep.pdb

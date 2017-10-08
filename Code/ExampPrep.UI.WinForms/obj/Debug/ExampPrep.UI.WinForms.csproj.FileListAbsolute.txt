@@ -1,0 +1,12 @@
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.UI.WinForms\bin\Debug\ExampPrep.UI.WinForms.exe.config
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.UI.WinForms\bin\Debug\ExampPrep.UI.WinForms.exe
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.UI.WinForms\bin\Debug\ExampPrep.UI.WinForms.pdb
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.UI.WinForms\bin\Debug\ExamPrep.exe
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.UI.WinForms\bin\Debug\ExamPrep.pdb
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.UI.WinForms\obj\Debug\ExampPrep.UI.WinForms.csprojResolveAssemblyReference.cache
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.UI.WinForms\obj\Debug\ExampPrep.UI.WinForms.Form1.resources
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.UI.WinForms\obj\Debug\ExampPrep.UI.WinForms.Properties.Resources.resources
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.UI.WinForms\obj\Debug\ExampPrep.UI.WinForms.csproj.GenerateResource.Cache
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.UI.WinForms\obj\Debug\ExampPrep.UI.WinForms.exe
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.UI.WinForms\obj\Debug\ExampPrep.UI.WinForms.pdb
+\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.UI.WinForms\obj\Debug\ExampPrep.UI.WinForms.Form2.resources

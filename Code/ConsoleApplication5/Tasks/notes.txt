@@ -1,0 +1,41 @@
+﻿async and await
+
+	Syntactic wrapper around Tasks
+	"await" pausses the current method until the Task is complete
+	Looks like a blocking operation
+	Does not block the current thread
+
+What is a Task
+
+	represents a concurrent operation
+	may or may not operate on a separate thread
+	can be chained an combined
+
+Async keyword
+	Just a hint to the compiler
+	doesnt magically make the method asyncronous 
+	tells the compiiler how to treat the await keyword
+
+Different Async Patterns
+	APM: Asyncronous programming model (older .net pattern)
+	EAP: Event asyncronous pattern (slightly bettern than apm)
+	TAP: Task Asycronous Pattern
+
+Exception handling
+
+	Exceptions stay on the thread they were thrown on.
+	Tasks can have a "faulted" state, if this state, the Task.Result property is not valid
+
+Task Properties vs TaskStatus enum
+
+	IsCancelled
+	IsCompleted: means no longer running, not completed successfully without exceptions
+	IsFaulted
+
+	Use the TaskStatus enum with a switch statement vs a bunch of continuations
+
+Cancelling Tasks
+
+	Use cancellation tokens
+	Cancellation tokens are readonly, can specify state in constructor but can't change it afterwards
+	You dont use tokens directly, you use the CancellationTokenSource class to generate tokens.
