@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampPrep.Tasks.UI.ConsoleA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampPrep.Threads.UI.ConsoleApp", "ExampPrep.Threads.UI.ConsoleApp\ExampPrep.Threads.UI.ConsoleApp.csproj", "{B85A9233-437C-4544-8B2F-32948FE50E81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPrep.EventsAndDelegates", "ExamPrep.EventsAndDelegates\ExamPrep.EventsAndDelegates.csproj", "{F1855BE5-70A2-44FF-87FE-68350D1682BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B85A9233-437C-4544-8B2F-32948FE50E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B85A9233-437C-4544-8B2F-32948FE50E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B85A9233-437C-4544-8B2F-32948FE50E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1855BE5-70A2-44FF-87FE-68350D1682BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1855BE5-70A2-44FF-87FE-68350D1682BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1855BE5-70A2-44FF-87FE-68350D1682BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1855BE5-70A2-44FF-87FE-68350D1682BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
