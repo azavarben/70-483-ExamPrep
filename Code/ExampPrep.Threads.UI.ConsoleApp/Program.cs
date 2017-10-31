@@ -55,8 +55,11 @@ namespace ExampPrep.Threads.UI.ConsoleApp
             //Listing160.ConditionalOperator();
             //Listing162.SwitchStatement();
             //Listing163.GotoInSwitch();
-            Listing174.JumpStatements();
-
+            //Listing174.JumpStatements();
+            //Listing175.Delegate();
+            //Listing176.Multicast();
+            //Listing177.Covariance();
+            Listing178.Contravariance();
         }
     }
 }
