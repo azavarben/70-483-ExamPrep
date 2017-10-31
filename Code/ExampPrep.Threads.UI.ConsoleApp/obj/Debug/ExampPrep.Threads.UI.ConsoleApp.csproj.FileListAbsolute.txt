@@ -4,3 +4,6 @@
 \\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.Threads.UI.ConsoleApp\obj\Debug\ExampPrep.Threads.UI.ConsoleApp.csprojResolveAssemblyReference.cache
 \\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.Threads.UI.ConsoleApp\obj\Debug\ExampPrep.Threads.UI.ConsoleApp.exe
 \\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.Threads.UI.ConsoleApp\obj\Debug\ExampPrep.Threads.UI.ConsoleApp.pdb
+C:\Users\Ben\Source\Repos\70-483-ExamPrep\Code\ExampPrep.Threads.UI.ConsoleApp\bin\Debug\ExampPrep.Threads.UI.ConsoleApp.exe.config
+C:\Users\Ben\Source\Repos\70-483-ExamPrep\Code\ExampPrep.Threads.UI.ConsoleApp\obj\Debug\ExampPrep.Threads.UI.ConsoleApp.exe
+C:\Users\Ben\Source\Repos\70-483-ExamPrep\Code\ExampPrep.Threads.UI.ConsoleApp\obj\Debug\ExampPrep.Threads.UI.ConsoleApp.pdb
