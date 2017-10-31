@@ -6,3 +6,6 @@
 \\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.Tasks.UI.ConsoleApp\obj\Debug\ExampPrep.Tasks.UI.ConsoleApp.pdb
 \\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.Tasks.UI.ConsoleApp\bin\Debug\ExamPrep.exe
 \\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExampPrep.Tasks.UI.ConsoleApp\bin\Debug\ExamPrep.pdb
+\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\70-483-ExamPrep\Code\ExampPrep.Tasks.UI.ConsoleApp\bin\Debug\ExampPrep.Tasks.UI.ConsoleApp.exe.config
+\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\70-483-ExamPrep\Code\ExampPrep.Tasks.UI.ConsoleApp\obj\Debug\ExampPrep.Tasks.UI.ConsoleApp.exe
+\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\70-483-ExamPrep\Code\ExampPrep.Tasks.UI.ConsoleApp\obj\Debug\ExampPrep.Tasks.UI.ConsoleApp.pdb
