@@ -1,9 +1,0 @@
-\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ExamPrep.exe.config
-\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ExamPrep.exe
-\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ExamPrep.pdb
-\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ExamPrep.csprojResolveAssemblyReference.cache
-\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ExamPrep.exe
-\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ExamPrep.pdb
-\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\70-483-ExamPrep\Code\ConsoleApplication5\bin\Debug\ExamPrep.exe.config
-\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\70-483-ExamPrep\Code\ConsoleApplication5\obj\Debug\ExamPrep.exe
-\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\70-483-ExamPrep\Code\ConsoleApplication5\obj\Debug\ExamPrep.pdb

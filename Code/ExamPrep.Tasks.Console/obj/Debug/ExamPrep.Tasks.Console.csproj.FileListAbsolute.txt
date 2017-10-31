@@ -1,1 +1,0 @@
-\\az.local\ServerFolders\Users\btiberi\Documents\visual studio 2015\Projects\ConsoleApplication5\ExamPrep.Tasks.Console\bin\Debug\ExamPrep.Tasks.Console.exe.config

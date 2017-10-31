@@ -1,9 +1,0 @@
-\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\ConsoleApplication5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
-\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\ConsoleApplication5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
-\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\ConsoleApplication5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
-\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\ConsoleApplication5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
-\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\ConsoleApplication5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
-\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\ConsoleApplication5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
-\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\ConsoleApplication5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
-\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\ConsoleApplication5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
-\\az.local\ServerFolders\Users\btiberi\Documents\Visual Studio 2015\Projects\ConsoleApplication5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
