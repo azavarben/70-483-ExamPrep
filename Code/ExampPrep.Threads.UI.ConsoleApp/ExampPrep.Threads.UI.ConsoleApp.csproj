@@ -87,7 +87,12 @@
     <Compile Include="Listing176.cs" />
     <Compile Include="Listing177.cs" />
     <Compile Include="Listing178.cs" />
+    <Compile Include="Listing179.cs" />
     <Compile Include="Listing18.cs" />
+    <Compile Include="Listing180.cs" />
+    <Compile Include="Listing181.cs" />
+    <Compile Include="Listing182.cs" />
+    <Compile Include="Listing184.cs" />
     <Compile Include="Listing19.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

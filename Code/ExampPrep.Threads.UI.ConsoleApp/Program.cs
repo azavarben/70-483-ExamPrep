@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -59,7 +58,13 @@ namespace ExampPrep.Threads.UI.ConsoleApp
             //Listing175.Delegate();
             //Listing176.Multicast();
             //Listing177.Covariance();
-            Listing178.Contravariance();
+            //Listing178.Contravariance();
+            //Listing179.LambdaToCreateDelegate();
+            //Listing180.MultilineLambda();
+            //Listing181.UseActionDelegate();
+            //Listing181.UseFuncDelegate();
+            //Listing182.EventDemo();
+            Listing184.EventHandlerDemo();
         }
     }
 }
