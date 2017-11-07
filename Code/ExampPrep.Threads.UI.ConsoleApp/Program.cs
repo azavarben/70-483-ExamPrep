@@ -64,7 +64,10 @@ namespace ExampPrep.Threads.UI.ConsoleApp
             //Listing181.UseActionDelegate();
             //Listing181.UseFuncDelegate();
             //Listing182.EventDemo();
-            Listing184.EventHandlerDemo();
+            //Listing184.EventHandlerDemo();
+            //Listing185.EventAccesorDemo();
+            //Listing186.ExceptionWhenRaisingEventDemo();
+            Listing187.EventExceptionHandlingDemo();
         }
     }
 }
