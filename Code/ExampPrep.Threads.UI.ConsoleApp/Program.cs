@@ -67,7 +67,14 @@ namespace ExampPrep.Threads.UI.ConsoleApp
             //Listing184.EventHandlerDemo();
             //Listing185.EventAccesorDemo();
             //Listing186.ExceptionWhenRaisingEventDemo();
-            Listing187.EventExceptionHandlingDemo();
+            //Listing187.EventExceptionHandlingDemo();
+            //Listing188.ExceptionDemo();
+            //Listing190.CatchingDifferentExceptionTypesDemo();
+            //Listing191.FinallyBlockDemo();
+            //Listing194.ThrowingExceptionsDemo();
+            //Listing195.RethrowingExceptionsDemo();
+            //Listing196.RethrowExceptionThatPointsToOriginalDemo();
+            Listing197.ExceptionDispatchInfoDemo();
         }
     }
 }

@@ -96,7 +96,14 @@
     <Compile Include="Listing185.cs" />
     <Compile Include="Listing186.cs" />
     <Compile Include="Listing187.cs" />
+    <Compile Include="Listing188.cs" />
     <Compile Include="Listing19.cs" />
+    <Compile Include="Listing190.cs" />
+    <Compile Include="Listing191.cs" />
+    <Compile Include="Listing194.cs" />
+    <Compile Include="Listing195.cs" />
+    <Compile Include="Listing196.cs" />
+    <Compile Include="Listing197.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
