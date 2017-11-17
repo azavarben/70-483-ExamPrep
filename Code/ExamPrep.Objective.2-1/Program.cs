@@ -16,7 +16,13 @@ namespace ExamPrep.Objective._2_1
             //Listing29.FieldDemo();
             //Listing210.IndexerDemo();
             //Listing210B.SaticDemo();
-            Listing212.ConstructorChainingDemo();
+            //Listing212.ConstructorChainingDemo();
+            //Listing214.GenericsWhereConstraintDemo();
+            //Listing215.GenericMethodDefaultValueDemo();
+            //Listing216.ExtensionMethodDemo();
+            //Listing217.OverridingVirtualMethodDemo();
+            //Listing218.SealedDemo();
+            ThoughtExperiment.Run();
 
             Console.ReadKey();
         }

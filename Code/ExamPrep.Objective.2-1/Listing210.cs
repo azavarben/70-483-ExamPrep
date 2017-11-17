@@ -13,6 +13,9 @@ namespace ExamPrep.Objective._2_1
             var deck = new Deck();
 
             var firstCard = deck[1];
+
+            //vs
+            deck.Cards.ElementAt(1);
         }
     }
 

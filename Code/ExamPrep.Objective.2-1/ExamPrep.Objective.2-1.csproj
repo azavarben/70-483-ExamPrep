@@ -47,11 +47,17 @@
     <Compile Include="Listing210.cs" />
     <Compile Include="Listing210B.cs" />
     <Compile Include="Listing212.cs" />
+    <Compile Include="Listing214.cs" />
+    <Compile Include="Listing215.cs" />
+    <Compile Include="Listing216.cs" />
+    <Compile Include="Listing217.cs" />
+    <Compile Include="Listing218.cs" />
     <Compile Include="Listing22.cs" />
     <Compile Include="Listing27.cs" />
     <Compile Include="Listing29.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThoughtExperiment.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
