@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPrep.EventsAndDelegates
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPrep.Objective.2-1", "ExamPrep.Objective.2-1\ExamPrep.Objective.2-1.csproj", "{9DE08788-1E38-4283-BC8D-87EB0E28F952}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPrep.Objective.2-2", "ExamPrep.Objective.2-2\ExamPrep.Objective.2-2.csproj", "{6D86628C-4CE2-4178-9520-160E48FE6461}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{9DE08788-1E38-4283-BC8D-87EB0E28F952}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DE08788-1E38-4283-BC8D-87EB0E28F952}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DE08788-1E38-4283-BC8D-87EB0E28F952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D86628C-4CE2-4178-9520-160E48FE6461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D86628C-4CE2-4178-9520-160E48FE6461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D86628C-4CE2-4178-9520-160E48FE6461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D86628C-4CE2-4178-9520-160E48FE6461}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

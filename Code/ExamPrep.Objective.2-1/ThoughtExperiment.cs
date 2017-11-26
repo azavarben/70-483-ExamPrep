@@ -8,5 +8,9 @@ namespace ExamPrep.Objective._2_1
 {
     class ThoughtExperiment
     {
+        internal static void Run()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
