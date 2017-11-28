@@ -17,7 +17,10 @@ namespace ExamPrep.Objective._2_2
             //Listing222.ExplicitConversionDemo();
             //Listing223.ExplicitConversionForObjectsDemo();
             //Listing224.UserDefinedConversionsDemo();
-            Listing226.BuiltInConvertAndParseDemo();
+            //Listing226.BuiltInConvertAndParseDemo();
+            //Listing227.UsingIsAndAsOperators();
+            //Listing228.DynamicDemo();
+            Listing229.DynamicObjectDemo();
 
             Console.ReadKey();
         }

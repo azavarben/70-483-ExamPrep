@@ -23,7 +23,6 @@ namespace ExamPrep.Objective._2_2
     {
         public decimal Amount { get; set; }
 
-
         public Money(decimal amount)
         {
             Amount = amount;
@@ -34,7 +33,10 @@ namespace ExamPrep.Objective._2_2
             return money.Amount;
         }
 
-        public static explicit operator int(Money money) //explicit is basically saying you're going to loose some precision here.
+        //explicit is basically saying you're going to loose some precision here, 
+        //so we'll have the compliler warn you.
+        //could just as easily make it implicit and screw someone over
+        public static explicit operator int(Money money)
         {
             return (int)money.Amount;
         }
