@@ -13,7 +13,15 @@ namespace ExamPrep.Objective._2_4
             //Listing241.CreatingAndImplementingInterfaceDemo();
             //Listing242.AddingSetAccessorToInterfaceWithProps();
             //Listing243.InterfaceWithGenericTypeParameter();
-            Listing244.InstatiateConcreteTypeThatImplementsInterface();
+            //Listing244.InstatiateConcreteTypeThatImplementsInterface();
+            //Listing245.CreatingABaseClass();
+            //Listing246.InheritingFromABaseClass();
+            //Listing247.OverridingVirtualMethod();
+            //Listing248.HidingMethodWithNewKeyword();
+            //Listing249.CreatingAbstractClass();
+            //Listing250.RectangleClass();
+            //Listing251.SquareClassInheritingFromRectangle();
+            Listing252.UsingTheSquareClass();
 
             Console.ReadKey();
         }

@@ -47,6 +47,14 @@
     <Compile Include="Listing242.cs" />
     <Compile Include="Listing243.cs" />
     <Compile Include="Listing244.cs" />
+    <Compile Include="Listing245.cs" />
+    <Compile Include="Listing246.cs" />
+    <Compile Include="Listing247.cs" />
+    <Compile Include="Listing248.cs" />
+    <Compile Include="Listing249.cs" />
+    <Compile Include="Listing250.cs" />
+    <Compile Include="Listing251.cs" />
+    <Compile Include="Listing252.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
