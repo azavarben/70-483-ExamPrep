@@ -21,7 +21,9 @@ namespace ExamPrep.Objective._2_4
             //Listing249.CreatingAbstractClass();
             //Listing250.RectangleClass();
             //Listing251.SquareClassInheritingFromRectangle();
-            Listing252.UsingTheSquareClass();
+            //Listing252.UsingTheSquareClass();
+            //Listing254.ImplementingIComparable();
+            Listing256.ImplementingIEnumerable();
 
             Console.ReadKey();
         }
